@@ -1,0 +1,45 @@
+# Ignore virtual environment
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# dotenv environment files
+.env
+
+# SQLite database (optional – if you want to exclude it from Git)
+*.db
+*.sqlite3
+
+# macOS system files
+.DS_Store
+
+# VS Code / PyCharm project files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.cache
+nosetests.xml
+pytest_cache/
+
+# Build and dist
+build/
+dist/
+*.egg-info/
+.eggs/
