@@ -146,7 +146,8 @@ This project is licensed under the MIT License.
 
 ---
 
-👨‍💻 **Author**: [Your Name](https://github.com/your-username)
+👨‍💻 **Author**: [Sushant Mane](https://github.com/Sushant2802)
 
 ```
+
 
