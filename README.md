@@ -43,7 +43,6 @@ It uses **Groq LLM API (LLaMA 3)** to compare resumes and job descriptions, prov
 ├── app.py          # Main Streamlit app
 ├── db.py           # SQLite database functions
 ├── requirements.txt # Dependencies
-├── .env            # API keys (not committed)
 └── README.md       # Documentation
 
 ````
